@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.js": "/fitness/static/js/main.bc289715.js",
-    "static/media/girl-chef.png": "/fitness/static/media/girl-chef.e5873d28a3aa274191ca.png",
-    "static/media/sandwich3.jpg": "/fitness/static/media/sandwich3.647f8933a2804145cbb3.jpg",
-    "static/media/cake3.jpg": "/fitness/static/media/cake3.5ac51ba9a88485b91df3.jpg",
-    "static/media/sandwich2.jpg": "/fitness/static/media/sandwich2.a79d666605c62b395a75.jpg",
-    "static/media/cake2.jpg": "/fitness/static/media/cake2.2a710921180cc92f4054.jpg",
-    "static/media/sandwich1.jpg": "/fitness/static/media/sandwich1.403c3a354f6dcbf628d6.jpg",
-    "static/media/cake1.jpg": "/fitness/static/media/cake1.b2cdbfb90331601190da.jpg",
-    "static/media/juice1.jpg": "/fitness/static/media/juice1.e1303a052398127f9f2f.jpg",
-    "static/media/img3.jpg": "/fitness/static/media/img3.084176081de827bf87dd.jpg",
-    "static/media/img2.jpg": "/fitness/static/media/img2.c5ed10db2fc4a1182c5f.jpg",
-    "static/media/juice2.jpg": "/fitness/static/media/juice2.38bb47ccca9807da353c.jpg",
-    "static/media/chocolate.jpg": "/fitness/static/media/chocolate.f1b5ddf6f9736fc53aaa.jpg",
-    "static/media/img4.jpg": "/fitness/static/media/img4.6f34f367a2fa9a67a82d.jpg",
-    "static/media/img1.jpg": "/fitness/static/media/img1.f030a7c4e0816c811de5.jpg",
-    "static/media/chef1.jpg": "/fitness/static/media/chef1.3867ed72308038ff9528.jpg",
-    "static/media/chef4.jpg": "/fitness/static/media/chef4.a79c3177abcbe04b4491.jpg",
-    "static/media/chef3.jpg": "/fitness/static/media/chef3.319818a7f59d0eea4c81.jpg",
-    "static/media/chef2.jpg": "/fitness/static/media/chef2.0087f6c85a9cac503be0.jpg",
-    "index.html": "/fitness/index.html",
-    "main.bc289715.js.map": "/fitness/static/js/main.bc289715.js.map"
+    "main.js": "/food/static/js/main.9351bd8e.js",
+    "static/media/girl-chef.png": "/food/static/media/girl-chef.e5873d28a3aa274191ca.png",
+    "static/media/sandwich3.jpg": "/food/static/media/sandwich3.647f8933a2804145cbb3.jpg",
+    "static/media/cake3.jpg": "/food/static/media/cake3.5ac51ba9a88485b91df3.jpg",
+    "static/media/sandwich2.jpg": "/food/static/media/sandwich2.a79d666605c62b395a75.jpg",
+    "static/media/cake2.jpg": "/food/static/media/cake2.2a710921180cc92f4054.jpg",
+    "static/media/sandwich1.jpg": "/food/static/media/sandwich1.403c3a354f6dcbf628d6.jpg",
+    "static/media/cake1.jpg": "/food/static/media/cake1.b2cdbfb90331601190da.jpg",
+    "static/media/juice1.jpg": "/food/static/media/juice1.e1303a052398127f9f2f.jpg",
+    "static/media/img3.jpg": "/food/static/media/img3.084176081de827bf87dd.jpg",
+    "static/media/img2.jpg": "/food/static/media/img2.c5ed10db2fc4a1182c5f.jpg",
+    "static/media/juice2.jpg": "/food/static/media/juice2.38bb47ccca9807da353c.jpg",
+    "static/media/chocolate.jpg": "/food/static/media/chocolate.f1b5ddf6f9736fc53aaa.jpg",
+    "static/media/img4.jpg": "/food/static/media/img4.6f34f367a2fa9a67a82d.jpg",
+    "static/media/img1.jpg": "/food/static/media/img1.f030a7c4e0816c811de5.jpg",
+    "static/media/chef1.jpg": "/food/static/media/chef1.3867ed72308038ff9528.jpg",
+    "static/media/chef4.jpg": "/food/static/media/chef4.a79c3177abcbe04b4491.jpg",
+    "static/media/chef3.jpg": "/food/static/media/chef3.319818a7f59d0eea4c81.jpg",
+    "static/media/chef2.jpg": "/food/static/media/chef2.0087f6c85a9cac503be0.jpg",
+    "index.html": "/food/index.html",
+    "main.9351bd8e.js.map": "/food/static/js/main.9351bd8e.js.map"
   },
   "entrypoints": [
-    "static/js/main.bc289715.js"
+    "static/js/main.9351bd8e.js"
   ]
 }
